@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class main {
 
     public static void main(String[] args) {
-        bool check  = True;
+        boolean check  = true;
         Scanner Input = new Scanner(System.in);
         int userInput = 10;
         while(check){
